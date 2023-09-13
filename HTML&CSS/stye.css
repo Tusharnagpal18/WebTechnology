@@ -1,0 +1,16 @@
+body{
+    background-color: lightyellow;
+}
+nav ul{
+    display: flex;
+    text-decoration: none;
+    list-style-type:none;
+    gap: 25px;
+    background-color: orange;
+    justify-content: center;
+}
+nav ul li{
+    /* background-color: red; */
+    font-size: 20px;
+    font-weight: bold;
+}
